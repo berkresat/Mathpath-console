@@ -38,7 +38,7 @@ I used Python language to programming my mathematical application. I know most o
 
 ![2](https://user-images.githubusercontent.com/116816908/198356087-b9ea361c-1608-4196-a308-38bc160b1733.png) ![new refreshing](https://user-images.githubusercontent.com/116816908/198356124-6ed6a81b-35a1-47d5-851c-505acba53407.jpeg)
 
-(Look at top, 'interface_simple' for simple interface) <--> this example is explain how to use Kivy for design simple interface. Actually SymPy and Matplotlib are rather wide and strong libraries. Therefore just need to edit these libraries for users pretty-easy experience. 
+(Look at top, 'example_interface' for simple interface) <--> this example is explain how to use Kivy for design simple interface. Actually SymPy and Matplotlib are rather wide and strong libraries. Therefore just need to edit these libraries for users pretty-easy experience. 
 
 (Look at top, 'example' for mathematical process) <--> this example is explain how to use SymPy for mathematical subprocess. 
 
