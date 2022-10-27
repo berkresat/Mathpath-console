@@ -4,7 +4,7 @@ I developed Mathpath application that is advanced mathematical solver running on
 
 This page includes a little bit tell about; how I made Mathpath? Which I used libraries and programming language? Just I hope this knowledges helps other students or curious minds.
 
-<CONTENT>
+:CONTENT:
   1- A short story of Mathpath how to birth
   2- Programming to Mathpath
   3- Some errors, bugs and problems. And how may solution these problems?
