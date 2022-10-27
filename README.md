@@ -4,7 +4,7 @@ I developed Mathpath application that is advanced mathematical solver running on
 
 This page includes a little bit tell about; how I made Mathpath? Which I used libraries and programming language? Just I hope this knowledges helps other students or curious minds.
 
-<CONTENT>
+CONTENT:
 
 1- A short story of Mathpath how to birth
 
@@ -13,5 +13,8 @@ This page includes a little bit tell about; how I made Mathpath? Which I used li
 3- Some errors, bugs and problems. And how may solution these problems?
 
 4- More
+
+![5](https://user-images.githubusercontent.com/116816908/198340963-37ed9a5a-8b58-4cb9-8527-811329c60086.png)
+
  
  
